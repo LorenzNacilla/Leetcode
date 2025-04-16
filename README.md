@@ -8,6 +8,7 @@ This repository uses the Leethub extension to store my leetcode solutions.
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/LorenzNacilla/Leetcode/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/LorenzNacilla/Leetcode/tree/master/0178-rank-scores) |
 | [0183-customers-who-never-order](https://github.com/LorenzNacilla/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/LorenzNacilla/Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/LorenzNacilla/Leetcode/tree/master/0196-delete-duplicate-emails) |
