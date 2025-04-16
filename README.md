@@ -19,5 +19,6 @@ This repository uses the Leethub extension to store my leetcode solutions.
 | [1811-fix-names-in-a-table](https://github.com/LorenzNacilla/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/LorenzNacilla/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/LorenzNacilla/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [1948-rearrange-products-table](https://github.com/LorenzNacilla/Leetcode/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/LorenzNacilla/Leetcode/tree/master/2024-calculate-special-bonus) |
 <!---LeetCode Topics End-->
