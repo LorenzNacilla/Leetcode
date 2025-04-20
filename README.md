@@ -13,6 +13,7 @@ This repository uses the Leethub extension to store my leetcode solutions.
 | [0184-department-highest-salary](https://github.com/LorenzNacilla/Leetcode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/LorenzNacilla/Leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/LorenzNacilla/Leetcode/tree/master/0595-big-countries) |
+| [1179-game-play-analysis-i](https://github.com/LorenzNacilla/Leetcode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/LorenzNacilla/Leetcode/tree/master/1258-article-views-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/LorenzNacilla/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/LorenzNacilla/Leetcode/tree/master/1670-patients-with-a-condition) |
