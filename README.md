@@ -24,4 +24,5 @@ This repository uses the Leethub extension to store my leetcode solutions.
 | [1948-rearrange-products-table](https://github.com/LorenzNacilla/Leetcode/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/LorenzNacilla/Leetcode/tree/master/2024-calculate-special-bonus) |
 | [2057-count-salary-categories](https://github.com/LorenzNacilla/Leetcode/tree/master/2057-count-salary-categories) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/LorenzNacilla/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
